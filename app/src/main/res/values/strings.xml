@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1918002_Tugas6</string>
+    <string-array name="pilihan">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>India</item>
+        <item>Filipina</item>
+    </string-array>
+</resources>
